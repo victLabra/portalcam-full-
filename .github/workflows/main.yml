@@ -1,0 +1,11 @@
+portalcam-full/
+  android/
+    app/
+      build.gradle
+      src/main/java/com/portalcam/FaceTracker.kt  <- tu versión grupo grande
+    gradle/wrapper/
+      gradle-wrapper.properties (8.5)
+    gradlew
+    build.gradle
+    settings.gradle
+  .github/workflows/build.yml
